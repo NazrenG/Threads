@@ -1,0 +1,9 @@
+C:\Users\user\source\repos\ThreadsTask\bin\Debug\ThreadsTask.exe
+C:\Users\user\source\repos\ThreadsTask\bin\Debug\ThreadsTask.pdb
+C:\Users\user\source\repos\ThreadsTask\obj\Debug\ThreadsTask.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\ThreadsTask\obj\Debug\ThreadsTask.Form1.resources
+C:\Users\user\source\repos\ThreadsTask\obj\Debug\ThreadsTask.Properties.Resources.resources
+C:\Users\user\source\repos\ThreadsTask\obj\Debug\ThreadsTask.csproj.GenerateResource.cache
+C:\Users\user\source\repos\ThreadsTask\obj\Debug\ThreadsTask.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ThreadsTask\obj\Debug\ThreadsTask.exe
+C:\Users\user\source\repos\ThreadsTask\obj\Debug\ThreadsTask.pdb
